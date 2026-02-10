@@ -1,0 +1,33 @@
+# Flow
+.flow/
+flow.json.backup
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+.env.local
+*.key
+*.pkey
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+build/
